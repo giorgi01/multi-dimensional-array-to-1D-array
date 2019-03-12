@@ -1,5 +1,5 @@
 def list_to(multi_dimensional_array):
-    index = 0  # ↓↓↓ Index out of range-ის თავიდან ასაცილებლად
+    index = 0
     while index < len(multi_dimensional_array):
         while True:
             try:
